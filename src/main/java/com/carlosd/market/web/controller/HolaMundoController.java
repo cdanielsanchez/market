@@ -1,11 +1,11 @@
-package com.carlosd.market;
+package com.carlosd.market.web.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-// controller de ensayo 
+// controller de ensayo
 
 @RestController
 @RequestMapping("/saludar")
